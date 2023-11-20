@@ -1,0 +1,10 @@
+^LICENSE\.md$
+^data$
+^analyses$
+^R$
+^figures$
+^outputs$
+^data/pantheria$
+^data/wildfinder$
+^.*\.Rproj$
+^\.Rproj\.user$
