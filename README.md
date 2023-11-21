@@ -18,7 +18,8 @@
 
 ## Overview
 
-This research compendium… **{{ DESCRIBE YOUR PROJECT }}**
+This research compendium aims to understand how reproductibility should
+be implemented in a research project
 
 ## Features
 
