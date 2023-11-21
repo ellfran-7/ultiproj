@@ -44,7 +44,7 @@ This research compendium was created during the CESAB formation in November 2023
 
 ## Features
 
-The main purpose of this compendium is to provide examples of good practices in organising data analyses in R
+The main purpose of this compendium is to provide examples of good practices in organising data analyses in R, so that they are reproductible
 
 
 
