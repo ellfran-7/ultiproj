@@ -8,3 +8,7 @@
 ^data/wildfinder$
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^README$
+^README\.Rmd$
+^README\.html$
+^make\.R$
