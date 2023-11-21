@@ -1,5 +1,3 @@
-
-
 #' Download datasets from GitHub
 #'
 #' @description
@@ -9,16 +7,14 @@
 #' The file will be stored in the chosen sub-repository in
 #' `data/`. This folder will be created if required.
 #' 
-#' @param location 
-#' @param filename 
-#' @param url 
-#' @param overwrite 
+#' @param location the string name of the sub-repository location to load the data
+#' @param filename the txt filename of the data to load
+#' @param url the string GitHub url for the data txt file
+#' @param overwrite a `logical`. If `TRUE`, the file will be downloaded again 
+#'   and the previous version will be replaced.
 #'
-#' @return
+#' @return No return value
 #' @export
-#'
-#' @examples
-
 
 fun_2_load_data <- function(location, 
                             filename, 
